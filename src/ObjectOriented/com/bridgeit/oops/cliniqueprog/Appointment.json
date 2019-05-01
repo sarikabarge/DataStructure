@@ -1,37 +1,37 @@
 [ {
-  "doctorName" : "CHANNAVEERA",
-  "patientName" : "PRATHIMA",
-  "date" : "20/03/2019",
+  "doctorName" : "RATHOD",
+  "patientName" : "PRATIKSHA",
+  "date" : "20/04/2019",
   "docAppointmentCount" : 1
 }, {
-  "doctorName" : "CHANNAVEERA",
-  "patientName" : "CHEPURIPRATHIMA",
-  "date" : "23/03/2019",
+  "doctorName" : "CHANNWAR",
+  "patientName" : "SUPRIYA",
+  "date" : "23/04/2019",
   "docAppointmentCount" : 2
 }, {
-  "doctorName" : "CHANNAVEERA",
-  "patientName" : "RESHMIWADLE",
-  "date" : "22/03/2019",
+  "doctorName" : "SEHA",
+  "patientName" : "RAVINDRA",
+  "date" : "22/04/2019",
   "docAppointmentCount" : 3
 }, {
-  "doctorName" : "CHANNAVEERA",
+  "doctorName" : "RAVINDRA",
   "patientName" : "PAUL",
-  "date" : "24/03/2019",
+  "date" : "24/04/2019",
   "docAppointmentCount" : 4
 }, {
-  "doctorName" : "CHANNAVEERA",
+  "doctorName" : "POOJA",
   "patientName" : "PRUDHVI",
-  "date" : "25/03/2019",
+  "date" : "25/04/2019",
   "docAppointmentCount" : 5
 }, {
-  "doctorName" : "CHANNAPRATHIMA",
-  "patientName" : "MAHESHI",
-  "date" : "22/03/2019",
+  "doctorName" : "PATIL",
+  "patientName" : "MAHESHESHWARI",
+  "date" : "22/04/2019",
   "docAppointmentCount" : 1
 }, {
   "doctorName" : "PANIPURI",
   "patientName" : "BHELPURI",
-  "date" : "23/03/2019",
+  "date" : "23/04/2019",
   "docAppointmentCount" : 1
 }, {
   "doctorName" : "JOKER",
@@ -41,6 +41,6 @@
 }, {
   "doctorName" : "JOKER",
   "patientName" : "KAPIL",
-  "date" : "29-07-1999",
+  "date" : "29-07-2018",
   "docAppointmentCount" : 2
 } ]
