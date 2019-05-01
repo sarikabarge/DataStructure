@@ -1,0 +1,76 @@
+[ {
+  "name" : "CHANNANIMBAGALKORI",
+  "id" : 1,
+  "specialization" : "NUEROLOGIST",
+  "avl" : "1AM"
+}, {
+  "name" : "NIMBAGALKORI",
+  "id" : 2,
+  "specialization" : "ORTHOLOGIST",
+  "avl" : "9AM"
+}, {
+  "name" : "JOKER",
+  "id" : 3,
+  "specialization" : "pyschologist",
+  "avl" : "11AM"
+}, {
+  "name" : "PRATHIMA",
+  "id" : 4,
+  "specialization" : "CHILD SPECIALIST",
+  "avl" : "6PM"
+}, {
+  "name" : "KOTHIREDDY",
+  "id" : 5,
+  "specialization" : "CARDIOLOGIST",
+  "avl" : "8PM"
+}, {
+  "name" : "BABYCORN",
+  "id" : 6,
+  "specialization" : "PHYSICIAN",
+  "avl" : "10AM"
+}, {
+  "name" : "CHANNAAAA",
+  "id" : 35,
+  "specialization" : "",
+  "avl" : "12AM"
+}, {
+  "name" : "MACBOOK",
+  "id" : 13,
+  "specialization" : "",
+  "avl" : "12AM"
+}, {
+  "name" : "AOC",
+  "id" : 37,
+  "specialization" : "",
+  "avl" : "5PM"
+}, {
+  "name" : "QWERTY",
+  "id" : 123,
+  "specialization" : "POGOTH",
+  "avl" : "12AP"
+}, {
+  "name" : "CHANNANIMBAGALKORI",
+  "id" : 1,
+  "specialization" : "NUROLAGIST",
+  "avl" : "132"
+}, {
+  "name" : "ssas",
+  "id" : 12345,
+  "specialization" : "MBBSS",
+  "avl" : "MBBS"
+}, {
+  "name" : "nilam",
+  "id" : 6,
+  "specialization" : "MENTAL",
+  "avl" : "AM"
+}, {
+  "name" : "joker",
+  "id" : 3,
+  "specialization" : "PSYCOLOGIST",
+  "avl" : "AM"
+}, {
+  "name" : "rathod",
+  "id" : 4,
+  "specialization" : "PSYCHOLOGIST",
+  "avl" : "11AM"
+} ]

@@ -1,0 +1,27 @@
+
+	
+
+{
+			"rice":[	
+					{"name":"long grain rice","price":75,"weight":25},
+					{"name":"Basmati rice","price":60,"weight":20},
+					{"name":"Jasmine rice","price":55,"weight":15},
+					{"name":"White rice","price":65,"weight":30}
+					],
+	
+			"pulses":[
+						{"name":"peal","price":80,"weight":25},
+						{"name":"green gram","price":70,"weight":50},
+						{"name":"Moth dal ","price":70,"weight":25},
+						{"name":"Bambara Beans ","price":50,"weight":25}
+					 ],
+	
+			"wheats":[
+						{"name":"Bread Flour wheat","price":75,"weight":25},
+						{"name":"Pastry Flour wheat","price":100,"weight":50},
+						{"name":"Cake Flour wheat","price":120,"weight":50},
+						{"name":"wheat","price":50,"weight":25}
+					]
+
+}
+

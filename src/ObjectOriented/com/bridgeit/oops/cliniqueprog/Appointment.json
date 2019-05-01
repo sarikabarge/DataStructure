@@ -1,0 +1,46 @@
+[ {
+  "doctorName" : "CHANNAVEERA",
+  "patientName" : "PRATHIMA",
+  "date" : "20/03/2019",
+  "docAppointmentCount" : 1
+}, {
+  "doctorName" : "CHANNAVEERA",
+  "patientName" : "CHEPURIPRATHIMA",
+  "date" : "23/03/2019",
+  "docAppointmentCount" : 2
+}, {
+  "doctorName" : "CHANNAVEERA",
+  "patientName" : "RESHMIWADLE",
+  "date" : "22/03/2019",
+  "docAppointmentCount" : 3
+}, {
+  "doctorName" : "CHANNAVEERA",
+  "patientName" : "PAUL",
+  "date" : "24/03/2019",
+  "docAppointmentCount" : 4
+}, {
+  "doctorName" : "CHANNAVEERA",
+  "patientName" : "PRUDHVI",
+  "date" : "25/03/2019",
+  "docAppointmentCount" : 5
+}, {
+  "doctorName" : "CHANNAPRATHIMA",
+  "patientName" : "MAHESHI",
+  "date" : "22/03/2019",
+  "docAppointmentCount" : 1
+}, {
+  "doctorName" : "PANIPURI",
+  "patientName" : "BHELPURI",
+  "date" : "23/03/2019",
+  "docAppointmentCount" : 1
+}, {
+  "doctorName" : "JOKER",
+  "patientName" : "PRATHIMA",
+  "date" : "13/04/2019",
+  "docAppointmentCount" : 1
+}, {
+  "doctorName" : "JOKER",
+  "patientName" : "KAPIL",
+  "date" : "29-07-1999",
+  "docAppointmentCount" : 2
+} ]
