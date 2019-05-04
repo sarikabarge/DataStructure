@@ -1,0 +1,9 @@
+[ {
+  "firstName" : "SARIKA",
+  "lastName" : "BARGE",
+  "address" : "JUINAGAR",
+  "city" : "NANDED",
+  "state" : "MAHARASHTRA",
+  "zip" : "456732",
+  "phone" : "7855432254"
+} ]
