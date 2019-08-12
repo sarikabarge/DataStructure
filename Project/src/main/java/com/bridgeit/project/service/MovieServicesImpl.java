@@ -63,7 +63,7 @@ public class MovieServicesImpl implements MovieService {
 			return new Response("movie not found ", 404);
 		}
 		for (String actor1 : actors) {
-			Optional<Actor> actor = actorRepository.findById(actor1.getActorId());
+			Optional<Actor> actor = actorRepository.findByName(actor1);
 			if (actor.isPresent()) {
 				return new Response("actor not found ", 404);
 			}
